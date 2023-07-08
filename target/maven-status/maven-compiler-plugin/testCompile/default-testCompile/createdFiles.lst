@@ -1,0 +1,6 @@
+pages\LoginPage.class
+pages\HomePage.class
+runners\RegisterRunner.class
+pages\RegisterPage.class
+stepdefinitions\RegisterSteps.class
+utils\ReportLog.class

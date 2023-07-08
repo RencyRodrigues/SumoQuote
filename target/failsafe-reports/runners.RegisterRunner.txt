@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.RegisterRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 42.745 s <<< FAILURE! - in runners.RegisterRunner
+Register.To test Register functionality  Time elapsed: 21.186 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "net.serenitybdd.core.pages.WebElementFacade.sendKeys(java.lang.CharSequence[])" because "this.email" is null
+
