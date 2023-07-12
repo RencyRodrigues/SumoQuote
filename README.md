@@ -26,7 +26,8 @@ Selenium, serenityBDD, cucumber,junit,maven
 10) right click and run as junit
 
 # View HTML Report
-HTML report will be generated once execution finish -bdd-cucumber\target\site\serenity
+*/import project in eclipse/*
+HTML report  -bdd-cucumber: \SumoQuoteTesting\Reports\FinalReport.html
 # Getting started with Serenity and Cucumber
 
 Serenity BDD is a library that makes it easier to write high quality automated acceptance tests, with powerful reporting and living documentation features. It has strong support for both web testing with Selenium, and API testing using RestAssured.
