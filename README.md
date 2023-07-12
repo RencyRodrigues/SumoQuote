@@ -18,7 +18,7 @@ Selenium, serenityBDD, cucumber,junit,maven
 2) install eclipse IDE(latest version)
 3) Install Cucumber from Eclipse Marketplace(go to help-->click on eclipse marketplace-->search cucumber in search bar and click on install)
 4) Install Eclipse m2e-maven support in Eclipse IDE from Eclipse market place
-5) import the project to your Eclipse IDE(Download Git)
+5) import the project to your Eclipse IDE using Github
 6) click on the project SumoQuoteTesting
 7) click on src/test/java
 8) click on runner package
