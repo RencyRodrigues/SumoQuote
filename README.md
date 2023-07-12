@@ -25,7 +25,7 @@ Make sure you have JAVA 10 or above installed to run this test
 
 # View HTML Report
 */import project in eclipse/*
-HTML report  -bdd-cucumber: \SumoQuoteTesting\Reports\FinalReport.html
+* HTML report  -bdd-cucumber: \SumoQuoteTesting\Reports\FinalReport.html
 # Getting started with Serenity and Cucumber
 
 Serenity BDD is a library that makes it easier to write high quality automated acceptance tests, with powerful reporting and living documentation features. It has strong support for both web testing with Selenium, and API testing using RestAssured.
