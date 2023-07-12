@@ -14,7 +14,11 @@ Eclipse IDE
 Selenium, serenityBDD, cucumber,junit,maven
 
 # Steps
-1) impport the project to your Eclipse IDE
+1) Install Java 11 and above
+2) install eclipse IDE(latest version)
+3) import the project to your Eclipse IDE(Download Git)
+4) Install Maven
+5) 
 
 # Getting started with Serenity and Cucumber
 
