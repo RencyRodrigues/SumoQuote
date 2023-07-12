@@ -24,7 +24,7 @@ Make sure you have JAVA 10 or above installed to run this test
 10) right click and run as junit
 
 # View HTML Report
-*/import project in eclipse/*
+*/import project in eclipse to view the report/*
 * HTML report  -bdd-cucumber: \SumoQuoteTesting\Reports\FinalReport.html
 # Getting started with Serenity and Cucumber
 
