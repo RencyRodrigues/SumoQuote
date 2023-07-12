@@ -7,7 +7,7 @@ Project Environment:Eclipse IDE
 Tools and Framework used:Selenium, serenityBDD, cucumber,junit,maven
 Make sure you have JAVA 10 or above installed to run this test
 
-#Steps
+# Steps
 
 
 # Getting started with Serenity and Cucumber
