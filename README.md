@@ -1,11 +1,13 @@
 
 
 # Important
-Project Name: SumoQuote Website
-Module Name:create an account
-Project Environment:Eclipse IDE
-Tools and Framework used:Selenium, serenityBDD, cucumber,junit,maven
+
 Make sure you have JAVA 10 or above installed to run this test
+
+# Project Name: SumoQuote Website
+# Module Name:create an account
+# Project Environment:Eclipse IDE
+# Tools and Framework used:Selenium, serenityBDD, cucumber,junit,maven
 
 # Steps
 
