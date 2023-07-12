@@ -14,7 +14,7 @@ Eclipse IDE
 Selenium, serenityBDD, cucumber,junit,maven
 
 # Steps
-
+1) impport the project to your Eclipse IDE
 
 # Getting started with Serenity and Cucumber
 
