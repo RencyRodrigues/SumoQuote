@@ -11,7 +11,7 @@ Create an Account page
 # Project Environment
 Eclipse IDE
 # Tools and Framework used
-Selenium, serenityBDD, cucumber,junit,maven
+Selenium, serenityBDD, cucumber, junit, maven
 
 # Steps
 1) Install Java 11 and above
