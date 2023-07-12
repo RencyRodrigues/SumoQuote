@@ -3,7 +3,7 @@
 # Important
 
 Make sure you have JAVA 10 or above installed to run this test
-
+# Project Description
 # Project Name
 SumoQuote Website
 # Module Name
@@ -12,6 +12,8 @@ Create an Account page
 Eclipse IDE
 # Tools and Framework used
 Selenium, serenityBDD, cucumber, junit, maven
+# Makes use of Page Objects.
+# Written in Java 
 
 # Steps
 1) Install Java 11 and above
