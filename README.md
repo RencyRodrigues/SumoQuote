@@ -17,8 +17,8 @@ Make sure you have JAVA 10 and above installed to run this test
 3) Install Cucumber from Eclipse Marketplace(go to help-->click on eclipse marketplace-->search cucumber in search bar and click on install)
 4) Install Eclipse m2e-maven support in Eclipse IDE from Eclipse market place
 5) import the project to your Eclipse IDE using Github
-6) click on the project SumoQuoteTesting
-7) click on src/test/java
+6) Right click on the project SumoQuoteTesting in Eclipse and click on run as junit OR
+7) Go to project and click on src/test/java
 8) click on runner package
 9) click on runner.java file
 10) right click and run as junit
